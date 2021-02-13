@@ -3,7 +3,8 @@ import './App.css';
 function App() {
 	return (
 		<div className='App'>
-			<h1>Muhammad Fahad Alam</h1>
+			<h1>BootCamp 2020</h1>
+			<p>class 2</p>
 		</div>
 	);
 }
